@@ -48,7 +48,7 @@ real-time-chat/
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/your-username/real-time-chat.git
+git clone https://github.com/sundas-riasat/web-sockets-real-time-chat-app
 cd real-time-chat
 ```
 
